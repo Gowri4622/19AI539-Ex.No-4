@@ -36,7 +36,7 @@ Registeration Number :
 ```
 
 ## OUTPUT
-![printtext “Send SMS Intent”](print.png)
+![print “Send SMS Intent”](print.png)
 
 
 
