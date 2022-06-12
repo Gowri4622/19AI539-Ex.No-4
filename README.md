@@ -1,6 +1,6 @@
-
-# Ex.No:4 Design an android application Send SMS using Intent.
-
+### EX NO : 04
+### DATE  : 
+# <p align="center"> Design an android application Send SMS using Intent </p>
 
 ## AIM:
 
@@ -92,6 +92,9 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 ![output](./static/img/o1e5.png)
+
+</br>
+
 ![output](./static/img/o2e4.png)
 
 
